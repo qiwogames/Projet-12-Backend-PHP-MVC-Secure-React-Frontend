@@ -1,0 +1,17 @@
+html{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: 'Abel', sans-serif!important;
+    background-color: #262626;
+    background-size: cover;
+    color: orange!important;
+    height: 100vh;
+}
+
+a{
+    color: orange!important;
+}

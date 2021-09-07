@@ -1,0 +1,17 @@
+.Etudiants {}
+
+.etudiant-content{
+    min-height: 100%;
+}
+
+.card{
+    height: 100%;
+    transition: 0.25s;
+}
+
+.card:hover{
+    background-color: rgba(0,0,0,0.5);
+    cursor: pointer;
+    transform: scale(1.05);
+    color: orange!important;
+}
