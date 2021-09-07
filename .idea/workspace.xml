@@ -15,6 +15,9 @@
       <change afterPath="$PROJECT_DIR$/frontend/src/components/Menu/Menu.css" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/components/Menu/Menu.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/frontend/src/logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend" beforeDir="false" afterPath="$PROJECT_DIR$/frontend" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/public/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/frontend/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.css" afterDir="false" />
@@ -81,6 +84,7 @@
       <workItem from="1630428587326" duration="759000" />
       <workItem from="1630429361193" duration="4188000" />
       <workItem from="1630998622520" duration="837000" />
+      <workItem from="1631016121060" duration="287000" />
     </task>
     <servers />
   </component>
